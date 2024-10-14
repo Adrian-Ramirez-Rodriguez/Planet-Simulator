@@ -1,5 +1,8 @@
 # Planet Simulation
 
+## Inspiration
+https://github.com/techwithtim/Python-Planet-Simulation
+
 ## Description
 Planet Simulation is a Python software created using Pygame. It employs Newtonian gravity to emulate how planets move in outer space. Objects in the program are planets characterized by properties such as position, velocity, mass, and orbit based on the object-oriented programming model. Features include pausing and resuming the simulation, adjusting the simulation speed, and zooming in on the planets. The graphical user interface developed with Pygame allows users to observe planet orbits and control the simulation with keys.
 
